@@ -1,0 +1,16 @@
+{
+ "framework": "17_TISAX",
+ "title": "TISAX AL2/AL3 (ENISA)",
+ "project": "WASTE_CLASSIFIER",
+ "basis": [
+  {
+   "check": "14_iso_27001",
+   "status": "PASS",
+   "observed": "9/9 controls evidenced (100.0%)"
+  }
+ ],
+ "verdict": "CONTROLS EVIDENCED \u2014 all basis checks PASS",
+ "pax_provenance": "Run ID loiskleinner/pax-benchmark-runner v3, 2026-10-02, Kaggle T4 x2 (2x 16GB VRAM), Ubuntu 22.04, Python 3.12. These are PAX L5 Narrow L2 General 27B model-level results \u2014 shared model component, not this project's verdict.",
+ "bench_sha3": "31e76f7673ea7e6a4346554c0ef1ed97b28baac1d6a6dfe4c174677a33895e9e",
+ "register_sha3": "7f7d16117cdbc182092919ae6e56faca15808399f700afd45958e046e4cb7e0c"
+}
